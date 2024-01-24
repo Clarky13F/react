@@ -8,7 +8,7 @@ const AboutMe = () => {
         i'v just started my journey in the coding field and im enjoying it a lot. Im recently out of the army where i was a sargent and in charges of other soldiers. I've gained a lot of problem solving skills that i feel help a lot in coding.
         While My time in the ARMY i was awarded a the Army Commendation Medal, and was given a very limited medal from one of the Korean ARMYs sargent majors.
       </p>
-    </div>
+      <img src="./unnamed.png" alt="a picture of me" width="300" height="500" />      </div>
   );
 };
 
