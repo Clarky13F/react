@@ -8,7 +8,8 @@ const Portfolio = () => {
         <h2 class="section-heading" id="my-work"></h2>
         <div class="section-div">
           <a href="https://github.com/Clarky13F/Weather">
-            <div id="firstBox" class="container container-whole">Weather app</div>
+            <div id="firstBox" class="container container-whole">Weather app
+            </div>
           </a>
           <a href="https://github.com/Clarky13F/noteTaker">
             <div class="container container-half">Note Taker</div>
