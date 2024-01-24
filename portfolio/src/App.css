@@ -77,3 +77,13 @@ li {
   display: flex;
   margin: 0;
 }
+
+/* footer {
+  position: absolute;
+  bottom: 0;
+  width: 66%;
+} */
+
+h2 {
+  min-height: 60vh;
+}
